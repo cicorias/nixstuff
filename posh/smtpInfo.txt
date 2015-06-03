@@ -1,0 +1,2 @@
+from,to,server
+foo@bar.com,foo@bar.com,email-smtp.us-east-1.amazonaws.com
